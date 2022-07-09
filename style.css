@@ -1,0 +1,66 @@
+body{
+    font-family: 'Lato', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.banner{
+    background-image:url(images/burger.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    text-align: center;
+}
+.top_text{
+    font-size: 100px;
+   font-family: 'Bebas Neue', cursive;
+font-family: 'Lato', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-style: italic;
+    color: orangered;
+    
+}
+.tag{
+    font-size: 50px;
+    color: black;
+    font-style: italic;
+}
+.order{
+     text-decoration: none;
+    
+    color: white;
+    font-weight: 700;
+    font-size: 25px;
+    display: inline-block;
+    background-image: linear-gradient(red ,orange);
+    padding: 8px 10px;
+    border-radius: 7px;
+}
+/*banner section end */
+
+.middle{
+    display: flex;
+    background-color: #d1e7b7 
+
+}
+.para{
+    text-align: center;
+    padding-top: 250px;
+    font-weight: 400px;
+    font-size: 30px;
+}
+.blog{
+    text-align: center;
+}
+.offer{
+    text-decoration: none;
+    
+    color: whitesmoke;
+    font-weight: 700;
+    font-size: 25px;
+    display: inline-block;
+    background-color: orange;
+    padding: 8px 10px;
+    border-radius: 7px;
+}
