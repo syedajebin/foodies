@@ -150,6 +150,70 @@ font-style: italic;
     border-radius: 7px;
    
 }
+/* update  section */
+ #update {
+    margin-bottom: 0px;
+    background-color: whitesmoke;
+  }
+  .update-top-text {
+    width: 600px;
+  
+    margin: 0 auto;
+    padding: 15px;
+    text-align: center;
+  }
+  .update-top-text h1 {
+    margin-bottom: 16px;
+  }
+  .update-top-text p {
+    margin-bottom: 10px;
+  }
+  .update-bottom-field {
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 50px 15px;
+    background-color: #fff4d6;
+  }
+  .update-bottom-field .subscribe {
+    color: white;
+    font-weight: bold;
+  }
+  .update-bottom-field a {
+    background-color: #f96c43;
+    margin-left: -10px;
+  }
+  
+  #update {
+    padding: 20px 0px;
+  }
+  .update-field-btn {
+    padding: 8px 20px;
+    display: inline-block;
+    border: none;
+    background-color: #cccece;
+    font-size: 16px;
+    text-decoration: none;
+    
+  }
+  /* review section */
+.review-us{
+    display: flex;
+    text-align: center;
+    background-color: white
+    justify-content: center;
+    padding: 0px;
+    
+   
+}
+.review h2{
+    text-align: center;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+
+  
 /* footer */
 
  footer {
